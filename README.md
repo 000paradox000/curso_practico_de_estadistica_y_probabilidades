@@ -1,0 +1,2 @@
+# curso_practico_de_estadistica_y_probabilidades
+Curso práctico de Estadística y Probabilidades
