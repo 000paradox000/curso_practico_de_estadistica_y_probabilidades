@@ -72,3 +72,7 @@ Características de una tabla de frecuencias:
 ### Pie Chart
 
 ![Pie Chart](../images/satisfaccion_clientes_hotel.png "Pie Chart")
+
+### Histograma
+
+![Histograma](../images/satisfaccion_clientes_hotel_hist.png "Histograma")
