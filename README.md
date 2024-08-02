@@ -1,5 +1,9 @@
 # Curso práctico de Estadística y Probabilidades
 
+## Conceptos
+
+- [Muestra](./docs/muestra/README.md)
+
 ## Links
 
 - [Curso práctico de Estadística y Probabilidades](https://globant.udemy.com/course/curso-practico-de-estadistica-y-probabilidades/learn/lecture/29938646#overview)
