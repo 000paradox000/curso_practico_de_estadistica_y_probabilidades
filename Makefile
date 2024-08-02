@@ -17,3 +17,9 @@ pre-commit.run.local:
 
 pre-commit.update.local:
 	pre-commit autoupdate
+
+# -----------------------------------------------------------------------------
+# Jupyter Notebooks
+
+notebooks.start.local:
+	jupyter lab --notebook-dir=./src/notebooks
