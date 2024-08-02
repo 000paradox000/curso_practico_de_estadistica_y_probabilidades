@@ -76,3 +76,21 @@ Características de una tabla de frecuencias:
 ### Histograma
 
 ![Histograma](../images/satisfaccion_clientes_hotel_hist.png "Histograma")
+
+## Resúmenes numéricos
+
+### Medidas de centralización
+
+Ver donde se encuentra el centro de los datos.
+
+#### Media (Mean)
+
+![Mean](../images/mean.png "Mean")
+
+#### Mediana (Median)
+
+![Median](../images/median.png "Median")
+
+#### Moda (Mode)
+
+![Mode](../images/mode.png "Mode")
