@@ -180,5 +180,5 @@ Temporary Items
 *.icloud
 
 # Draw IO
-*.drawio.bak
+*.drawio.bkp
 *.drawio~*
