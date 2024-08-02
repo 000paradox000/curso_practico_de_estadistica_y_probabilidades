@@ -30,7 +30,7 @@ repos:
           - id: detect-private-key
     # Leave black at the bottom so all touchups are done before it is run.
     - repo: https://github.com/ambv/black
-      rev: 24.4.2
+      rev: 24.8.0
       hooks:
           - id: black
             language_version: python3
