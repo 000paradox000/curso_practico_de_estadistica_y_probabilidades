@@ -66,3 +66,9 @@ Características de una tabla de frecuencias:
 - La suma de elementos de la columna `Frecuencia Relativa` es igual a 1.
 
 - El último elemento de la columna `Frecuencia Relativa Acumulada` es 1.
+
+## Gráficos
+
+### Pie Chart
+
+![Pie Chart](../images/satisfaccion_clientes_hotel.png "Pie Chart")
