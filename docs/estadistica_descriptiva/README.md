@@ -2,6 +2,8 @@
 
 [Regresar](../../README.md)
 
+## Generalidades
+
 Describe una variable aleatoria:
 
 - Resume
@@ -79,7 +81,7 @@ Características de una tabla de frecuencias:
 
 ## Resúmenes numéricos
 
-### Medidas de centralización
+### Medidas de centralización (tendencia central)
 
 Ver donde se encuentra el centro de los datos.
 
@@ -95,16 +97,26 @@ Ver donde se encuentra el centro de los datos.
 
 ![Mode](../images/mode.png "Mode")
 
-
 ### Medidas de dispersión
 
 Ver si los datos se encuentran concentrados o alejados de las medidas de
 centralización.
 
-#### Varianza y desviación típica
+#### Varianza y desviación típica (desviación estándar)
 
 Cuán alejados están los datos de la media.
 
 ![Varianza](../images/varianza.png "Varianza")
 
 [Referencia](https://matemovil.com/wp-content/uploads/2019/10/f%C3%B3rmulas-de-la-varianza-y-la-desviaci%C3%B3n-est%C3%A1ndar.jpg)
+
+La desviación típica, también conocida como desviación estándar, es una medida
+cuantitativa de dispersión que indica cuánto varían los datos en un conjunto
+respecto a su media.
+
+Un valor alto indica que los datos están muy dispersos respecto a la media,
+mientras que un valor bajo indica que están más concentrados cerca de la media.
+
+La desviación típica ayuda a identificar valores atípicos o outliers.
+Generalmente, si un valor está a más de 2 o 3 desviaciones típicas de la media,
+puede considerarse un valor atípico.
