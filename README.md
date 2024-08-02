@@ -3,6 +3,7 @@
 ## Conceptos
 
 - [Muestra](./docs/muestra/README.md)
+- [Estadística descriptiva](./docs/estadistica_descriptiva/README.md)
 
 ## Links
 

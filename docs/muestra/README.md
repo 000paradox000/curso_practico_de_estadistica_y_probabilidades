@@ -28,4 +28,6 @@ Hay 2 tipos de variables aleatorias:
     - Peso
     - Altura
 
+**Ejemplo 1:** Variable aleatoria contínua
+
 ![Muestra Ejemplo 1](../images/muestra_example_1.png "Muestra Ejemplo 1")

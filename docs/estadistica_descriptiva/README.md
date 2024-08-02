@@ -1,0 +1,51 @@
+# Estadística Descriptiva
+
+[Regresar](../../README.md)
+
+Describe una variable aleatoria:
+- Resume
+- Analiza
+- Saca conclusiones
+
+Se agrupa en tres estudios fundamentales:
+- Tablas de frecuencias
+- Gráficos
+- Resúmenes numéricos
+
+## Tablas de frecuencias
+
+Tenemos una muestra de 25 datos de una variables aleatoria que es el grado de
+satisfacción de los clientes de un hotel.
+
+- Satisfecho
+- Muy Satisfecho
+- Descontento
+- Medianamente Satisfecho
+- Satisfecho
+- Satisfecho
+- Medianamente Satisfecho
+- Satisfecho
+- Muy Satisfecho
+- Muy Satisfecho
+- Muy Satisfecho
+- Descontento
+- Descontento
+- Medianamente Satisfecho
+- Satisfecho
+- Satisfecho
+- Satisfecho
+- Muy Satisfecho
+- Satisfecho
+- Muy Satisfecho
+- Muy Satisfecho
+- Medianamente Satisfecho
+- Satisfecho
+- Medianamente Satisfecho
+- Satisfecho
+
+| Clase                   | Frecuencia Absoluta | Frecuencia Absoluta Acumulada | Frecuencia Relativa | Frecuencia Relativa Acumulada |
+|-------------------------|---------------------|-------------------------------|---------------------|-------------------------------|
+| Muy Satisfecho          | 7                   | 7                             | 7/25                | 7/25                          |
+| Satisfecho              | 10                  | 10                            | 10/25               | 17/25                         |
+| Medianamente Satisfecho | 5                   | 22                            | 5/25                | 22/25                         |
+| Descontento             | 3                   | 25                            | 3/25                | 25/25                         |
