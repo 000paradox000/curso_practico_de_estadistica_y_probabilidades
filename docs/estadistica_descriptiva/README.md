@@ -94,3 +94,17 @@ Ver donde se encuentra el centro de los datos.
 #### Moda (Mode)
 
 ![Mode](../images/mode.png "Mode")
+
+
+### Medidas de dispersión
+
+Ver si los datos se encuentran concentrados o alejados de las medidas de
+centralización.
+
+#### Varianza y desviación típica
+
+Cuán alejados están los datos de la media.
+
+![Varianza](../images/varianza.png "Varianza")
+
+[Referencia](https://matemovil.com/wp-content/uploads/2019/10/f%C3%B3rmulas-de-la-varianza-y-la-desviaci%C3%B3n-est%C3%A1ndar.jpg)
