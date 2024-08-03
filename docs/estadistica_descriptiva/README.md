@@ -89,13 +89,36 @@ Ver donde se encuentra el centro de los datos.
 
 ![Mean](../images/mean.png "Mean")
 
+Es el valor obtenido al sumar todos los datos y dividir el resultado entre el
+número total de datos.
+
+##### Ejemplo Edades de estudiantes
+
+15, 16, 14, 17, 15
+
+Promedio = (15+16+14+17+15) / 5 = 77 / 5 = 15.4
+
+El promedio de edades es 15.4 lo cual se podría aproximar a 15 años pues podría
+ser inválido 15.4 años en cierto contexto.
+
 #### Mediana (Median)
 
 ![Median](../images/median.png "Median")
 
+Es el valor que ocupa el lugar central de todos los datos cuando están
+ordenados.
+
 #### Moda (Mode)
 
 ![Mode](../images/mode.png "Mode")
+
+El o lo valores que mas se repiten.
+
+##### Ejemplos
+
+- 15, 14, 16, 15, 15, 17: Mo = 15
+- 12, 13, 13, 14, 15, 15, 16: Mo = 13, 15 Distribución Bimodal
+- 12, 13, 13, 14, 14, 15, 15, 16: Mo = 13, 14, 15 Distribución Multimodal
 
 ### Medidas de dispersión
 
@@ -104,7 +127,8 @@ centralización.
 
 #### Varianza y desviación típica (desviación estándar)
 
-Cuán alejados están los datos de la media.
+- Cuán alejados están los datos de la media.
+- Promedio de los cuadrados de las desviaciones medidas alrededor de la media.
 
 ![Varianza](../images/varianza.png "Varianza")
 
@@ -120,3 +144,24 @@ mientras que un valor bajo indica que están más concentrados cerca de la media
 La desviación típica ayuda a identificar valores atípicos o outliers.
 Generalmente, si un valor está a más de 2 o 3 desviaciones típicas de la media,
 puede considerarse un valor atípico.
+
+#### Desviación media
+
+Es la diferencia en valor absoluto entre cada valor de la variable y la
+media aritmética.
+
+##### Ejemplo
+
+Edades: 12, 13, 12, 14, 15
+
+Promedio = 12+13+12+14+15 / 5 = 66 / 5 = 13.2
+
+Desviación de cada edad respecto a la media.
+
+- 12: |12-13.2| = |-1.2| = 1.2
+- 13: |13-13.2| = |-0.2| = 0.2
+- 12: |12-13.2| = |-1.2| = 1.2
+- 14: |14-13.2| = |-0.8| = 0.8
+- 15: |15-13.2| = |-1.8| = 1.8
+
+Dmedia = 1.2+0.2+1.2+0.8+1.8 / 5 = 5.2 / 5 = 1.04

@@ -2,7 +2,7 @@
 
 [Regresar](../../README.md)
 
-Una **muestra** es un subconjunto de datos de una población.
+Una **muestra** ó **sample** es un subconjunto de datos de una población.
 
 Una **población** es un conjunto de **elementos/objetos/individuos** sobre la
 cual se va a estudiar una **característica**.
@@ -26,7 +26,7 @@ la población la misma probabilidad de ser elegidos.
 ## Variables
 
 ![Variables](../images/variables.png "Variables")
--
+
 - Cualitativas: características que no pueden ser medidas con números
   - Nominal: no admite un orden
     - Estado civil
