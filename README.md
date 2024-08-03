@@ -8,6 +8,7 @@ organizar y analizar datos.
 - [Muestra](./docs/muestra/README.md)
 - [Estadística descriptiva](./docs/estadistica_descriptiva/README.md)
 - [Datos agrupados](./docs/datos_agrupados/README.md)
+- [Medidas de posición](./docs/medidas_posicion/README.md)
 
 ## Links
 
