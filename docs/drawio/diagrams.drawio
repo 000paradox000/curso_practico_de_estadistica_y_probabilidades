@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
   <diagram name="Page-1" id="2sJVNby1LgSEMNk1-PV5">
-    <mxGraphModel dx="7570" dy="4395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6136" dy="3516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,45 @@
         </mxCell>
         <mxCell id="cdzvNs5AJnSTQuEF8yzZ-48" value="https://matemovil.com/wp-content/uploads/2019/10/f%C3%B3rmulas-de-la-varianza-y-la-desviaci%C3%B3n-est%C3%A1ndar.jpg" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="2810" y="870" width="2360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#E0AAF0;" edge="1" parent="1" source="cdzvNs5AJnSTQuEF8yzZ-49" target="cdzvNs5AJnSTQuEF8yzZ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#E0AAF0;" edge="1" parent="1" source="cdzvNs5AJnSTQuEF8yzZ-49" target="cdzvNs5AJnSTQuEF8yzZ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-49" value="VARIABLE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;strokeColor=#E0AAF0;" vertex="1" parent="1">
+          <mxGeometry x="4550" y="1630" width="620" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#E0AAF0;" edge="1" parent="1" source="cdzvNs5AJnSTQuEF8yzZ-50" target="cdzvNs5AJnSTQuEF8yzZ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#E0AAF0;" edge="1" parent="1" source="cdzvNs5AJnSTQuEF8yzZ-50" target="cdzvNs5AJnSTQuEF8yzZ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-50" value="CUANTITATIVA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;strokeColor=#E0AAF0;" vertex="1" parent="1">
+          <mxGeometry x="3540" y="2210" width="620" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#E0AAF0;" edge="1" parent="1" source="cdzvNs5AJnSTQuEF8yzZ-51" target="cdzvNs5AJnSTQuEF8yzZ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#E0AAF0;" edge="1" parent="1" source="cdzvNs5AJnSTQuEF8yzZ-51" target="cdzvNs5AJnSTQuEF8yzZ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-51" value="CUALITATIVA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;strokeColor=#E0AAF0;" vertex="1" parent="1">
+          <mxGeometry x="5580" y="2210" width="620" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-55" value="NOMINAL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;strokeColor=#E0AAF0;" vertex="1" parent="1">
+          <mxGeometry x="5060" y="3000" width="620" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-56" value="ORDINAL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;strokeColor=#E0AAF0;" vertex="1" parent="1">
+          <mxGeometry x="6110" y="3000" width="620" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-59" value="CONTINUA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;strokeColor=#E0AAF0;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="2770" width="620" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cdzvNs5AJnSTQuEF8yzZ-60" value="DISCRETA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;strokeColor=#E0AAF0;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="2770" width="620" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

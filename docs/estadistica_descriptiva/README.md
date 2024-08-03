@@ -2,9 +2,9 @@
 
 [Regresar](../../README.md)
 
-## Generalidades
+La estadística descriptiva, describe una variable aleatoria.
 
-Describe una variable aleatoria:
+## Variables aleatorias
 
 - Resume
 - Analiza
@@ -85,7 +85,7 @@ Características de una tabla de frecuencias:
 
 Ver donde se encuentra el centro de los datos.
 
-#### Media (Mean)
+#### Media (Mean, Media aritmética)
 
 ![Mean](../images/mean.png "Mean")
 
