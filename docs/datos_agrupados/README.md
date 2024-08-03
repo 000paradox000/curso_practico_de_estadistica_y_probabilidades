@@ -46,6 +46,14 @@ Edades de estudiantes
 - Mediana
   - ![Mediana](../images/mediana_agrupados_intervalos.png "Mediana")
 
+  - Posición
+    - Si el número de datos es par se calcula n/2
+    - Si el número de datos es impar se calcula (n+1)/2
+
+  - Si por decir algo la posición nos da 16, y este número se encuentra en la F
+    entonces tomamos el límite superior del intervalo como mediana (19).
+
+
 ## Ejemplo 3
 
 Se ha solicitado a 50 personas contestar cuantas horas duermen diariamente y
