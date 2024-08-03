@@ -15,4 +15,6 @@ Dividen una distribución ordenada en partes iguales.
 Para calcular medidas de posición es necesario que los datos estén ordenados
 de menor a mayor.
 
+## Cuartiles
 
+![Quartile](../images/q.png "Quartile")
