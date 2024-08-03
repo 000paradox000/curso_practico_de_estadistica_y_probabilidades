@@ -19,9 +19,11 @@ Edades de estudiantes
 | 19 | 1  | 60 | 19  |
 
 - Media = Sum(X*f) / N = 916 / 60
-
 - Mediana
-    - Posición: n / 2 = 60 / 2 = 30
+    - Posición
+      - Si el número de datos es par se calcula n/2
+      - Si el número de datos es impar se calcula (n+1)/2
+      - Posición: n / 2 = 60 / 2 = 30
     - Buscamos el 30 en F
     - Si no hallamos el 30 buscamos el que le sigue o sea el 40
     - Entonces la mediana seria el número 15 porque es la X que contiene 40
@@ -45,14 +47,13 @@ Edades de estudiantes
 - Promedio = (14*4 + 16*9 + 18*3 + 20*3 + 22*1) / 20 = 336 / 20 = 16.8
 - Mediana
   - ![Mediana](../images/mediana_agrupados_intervalos.png "Mediana")
-
   - Posición
     - Si el número de datos es par se calcula n/2
     - Si el número de datos es impar se calcula (n+1)/2
-
   - Si por decir algo la posición nos da 16, y este número se encuentra en la F
     entonces tomamos el límite superior del intervalo como mediana (19).
-
+- Moda
+  - ![Moda](../images/mode_grouped_interval.png "Moda")
 
 ## Ejemplo 3
 
