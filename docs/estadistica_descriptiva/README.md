@@ -165,3 +165,12 @@ Desviación de cada edad respecto a la media.
 - 15: |15-13.2| = |-1.8| = 1.8
 
 Dmedia = 1.2+0.2+1.2+0.8+1.8 / 5 = 5.2 / 5 = 1.04
+
+
+### Interpretación
+
+Ejemplo: 14, 14, 15, 15, 15, 16, 17, 17, 18
+
+- Promedio: 15.6, el promedio de edad es 15.6
+- Mediana: 15, el 50% de la muestra es menor o igual a 15
+- Moda: 15 es la edad con más frecuencia en la muestra
